@@ -1,5 +1,5 @@
 {
-    "name": "leosarli/aws-service-discovery-php",
+    "name": "newwaybrazil/aws-service-discovery-php",
     "description": "PHP library to use aws service discovery",
     "version": "1.0.0",
     "type": "library",
@@ -15,8 +15,8 @@
     },
     "authors": [
         {
-            "name": "Leo Di Sarli",
-            "email": "leosarli@gmail.com"
+            "name": "New Way Brazil",
+            "email": "opensource@gruponewway.com.br"
         }
     ],
     "autoload": {
